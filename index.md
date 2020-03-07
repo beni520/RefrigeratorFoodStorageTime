@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的冰箱食物存储时间记录
 
-You can use the [editor on GitHub](https://github.com/beni520/RefrigeratorFoodStorageTime/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+在我们日常生活中，经常会将食物储存在冰箱里，以保持食物新鲜状态和不会变质。但是我们经常会忘记冰箱里的各种食物存储了多长时间，是否快要过期，或者已经过期等，导致食物的浪费。我们可以利用这款应用，记录家里冰箱放了哪些食物，保质期，已经存储时间，是否新鲜以及即将计划如何使用该食物等安排。这样我们就可以将这些记录整理成列表，方便我们管理冰箱里的食物。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址:  jichungan9498@163.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/RefrigeratorFoodStorageTime/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
